@@ -8,8 +8,8 @@ Week 1: Percolation
 
 Week 2: Deque
 
-Week 3:
+Week 3: Pattern Recognization
 
-Week 4:
+Week 4: 8 Puzzle
 
 Week 5: k-d Tree
