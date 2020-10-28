@@ -13,3 +13,5 @@ Week 3: Pattern Recognization
 Week 4: 8 Puzzle
 
 Week 5: k-d Tree
+
+**Please DONOT borrow codes from this repository!!!**
